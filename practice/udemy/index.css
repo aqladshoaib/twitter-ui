@@ -1,0 +1,24 @@
+
+
+  h1 {
+    color: blue;
+    font-size: medium;
+    background-color: honeydew;
+    width: 50%;
+}
+button{
+    color:black;
+    font-size: large;
+    font-style:oblique;
+}
+
+#special{
+  font-size: medium;
+    background-color: honeydew;
+    width: 50%;
+} 
+
+#bodyclass{
+  background-color:#ff00ff;
+}
+

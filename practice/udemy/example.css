@@ -1,0 +1,116 @@
+body{
+    background-image: url("backgrund.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+  }
+  h1 {
+    color: blue;
+    font-size: medium;
+    background-color: honeydew;
+    width: 50%;
+}
+button{
+    color:black;
+    font-size: large;
+    font-style:oblique;
+}
+
+#special{
+  font-size: medium;
+    background-color: honeydew;
+    width: 50%;
+} 
+
+#bodyclass{
+  background-color:#ff00ff;
+}
+
+p{
+    border-style: double;
+    border-width: 5px;
+    border-color: springgreen;
+    border-left:slateblue
+    
+
+}
+
+#special{
+    background-color: yellow;
+     border-radius : 4px;
+     
+}
+
+.div1{
+margin: 10px 20px 30px 40px;
+border: 1px solid red;
+padding: 10px 20px 30px 40px;
+}
+
+
+.div2{
+border:1px solid slateblue;
+}
+
+.example{
+    width:200px;
+    height:200px;
+    border: 5px solid green;
+    background-color: royalblue;
+    margin: 10px;
+    padding: 20px;
+    outline: salmon;
+} 
+
+#hi {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 10px;
+    font-style: italic;
+    font-weight: bold;
+
+}
+
+th{
+    background-color: green;
+    color: white;
+    text-align: left;
+    padding: 5px;
+}
+table{
+    border-collapse: collapse;
+    width: 500px
+}
+
+td{
+    padding: 5px;
+}
+
+tr:nth-child(odd){
+    background-color:rgba(0, 0, 0,0.15 );
+}
+
+.main-element {
+    position: static;
+    
+    right: 0;
+    background-color: yellow;
+    padding: 10px;
+
+}
+
+.sibling-element{
+    padding: 10px;
+    background-color: #f2f2f2;
+}
+
+
+.parent-element{
+    position:relative;
+    border: 2px solid black;
+}
+#lmn{
+    width:200px;
+    height:100px;
+    border: 1px solid;
+    overflow:auto;
+}

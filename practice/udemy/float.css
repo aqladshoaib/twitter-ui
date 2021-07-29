@@ -1,0 +1,29 @@
+img{
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+    box-shadow: 5px 5px 10px grey;
+}
+div{
+    font-size: 20px;
+}
+h1{
+    text-shadow: 20px 2px 20px red;
+}
+
+
+
+.flexbox{
+    background-color: grey;
+    padding: 10px;
+    display: flex;
+    flex-direction: row-reverse;
+
+}
+
+.flexchild{
+    background-color: indigo;
+    color: white;
+    margin: 5px;
+    padding: 5px;
+}
